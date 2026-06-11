@@ -83,6 +83,17 @@ heart-disease-analytics-sas-viya/
 └── data/
     └── Model_Comparison_formatted.csv
 ```
+## Project Workflow
+
+![Pipeline Workflow](screenshots/pipeline_workflow.png)
+
+## Model Comparison
+
+![Model Comparison](screenshots/model_comparison_results.png)
+
+## ROC Curve
+
+![ROC Curve](screenshots/roc_curve.png)
 
 ## Key Skills Demonstrated
 
