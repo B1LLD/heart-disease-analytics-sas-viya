@@ -95,6 +95,18 @@ heart-disease-analytics-sas-viya/
 
 ![ROC Curve](screenshots/roc_curve.png)
 
+## Project Workflow
+
+![Pipeline Workflow](screenshots/pipeline_workflow.png)
+
+## Model Comparison
+
+![Model Comparison](screenshots/model_comparison_results.png)
+
+## ROC Curve
+
+![ROC Curve](screenshots/roc_curve.png)
+
 ## Key Skills Demonstrated
 
 * Data Cleaning
