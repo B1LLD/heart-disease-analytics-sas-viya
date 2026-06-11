@@ -87,9 +87,6 @@ heart-disease-analytics-sas-viya/
 
 ![Pipeline Workflow](screenshots/pipeline_workflow.png)
 
-## Model Comparison
-
-![Model Comparison](screenshots/model_comparison_results.png)
 
 ## ROC Curve
 
